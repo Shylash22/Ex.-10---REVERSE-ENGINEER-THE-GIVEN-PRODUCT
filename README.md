@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+<img width="1079" height="765" alt="image" src="https://github.com/user-attachments/assets/9fcb46f3-0d9e-40ed-aa2b-b47c30bb05b0" />
 
 
-### Name:
-### Register Number:
+
+### Name:Shylash.A
+### Register Number:212225220097
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
